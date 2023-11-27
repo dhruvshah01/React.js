@@ -1,0 +1,16 @@
+Stateless Functional Components:
+JavaScript Functions
+
+function Welcome(props){
+    return <h1> Hello, {props.name} </h1>;
+}
+
+Statefull Class Components:
+Class extending Component Class
+Render method returning HTML
+
+class Welcome extends React.Component{
+    render(){
+        return <h1> Hello, {props.name} </h1>;
+    }
+}
