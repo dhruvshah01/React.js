@@ -14,3 +14,18 @@ class Welcome extends React.Component{
         return <h1> Hello, {props.name} </h1>;
     }
 }
+
+Functional vs Class
+
+* Functional
+--> Simple Functions
+--> Use Func as much as possible
+--> Absence of 'this' keyword
+--> Mainly responsible for UI
+--> Hooks available 
+
+* Class
+--> More feature rich
+--> Maintain their own private data - state
+--> Complex UI logic
+--> Provide lifecycle hooks

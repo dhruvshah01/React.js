@@ -1,0 +1,1 @@
+JSX --> JavaScript XML - Extension to JS language syntax
