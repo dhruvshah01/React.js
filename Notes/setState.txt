@@ -1,0 +1,7 @@
+Always make use of setState and never modify the state directly.
+
+Use second arguement of setState method to use after the code has been executed
+
+When you have to update the state value based on the previous state value, pass in a function as an arguement
+instead of regular object.
+

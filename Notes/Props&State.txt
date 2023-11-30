@@ -1,0 +1,13 @@
+Props vs State
+* Props:
+--> props get passed to the Component
+--> Functional parameter
+--> props are immutable
+--> props - Functional Component || this.props - Class Component
+
+
+* State:
+--> state is managed within the Component
+--> Variable declared in the function body
+--> state can be changed
+--> useState Hook - Functional Component || this.state - Class Component
