@@ -1,0 +1,2 @@
+While Event Handling, it is important to bind the events. 
+this.state will return undefined if you don't bind the event.

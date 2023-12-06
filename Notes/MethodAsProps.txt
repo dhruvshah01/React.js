@@ -1,0 +1,4 @@
+In the parent class, define the method.
+Create a child tag in the parent render method.
+Pass the method as a prop.
+Access the method as props in the child method.

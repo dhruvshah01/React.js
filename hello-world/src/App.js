@@ -8,6 +8,8 @@ import Counter from './Components/Counter';
 import Destructuring from './Components/Destructuring';
 import FunctionClick from './Components/FunctionClick';
 import ClassClick from './Components/ClassClick';
+import EventBind from './Components/EventBind';
+import ParentComponent from './Components/ParentComponent';
 
 function App() { 
   return (
@@ -22,9 +24,11 @@ function App() {
       <Welcome name = "Dwayne" lastName = "Johnson"> </Welcome>
       <Message> </Message>
       <Counter> </Counter>
-      <Destructuring name = "Dhruv" lastName = "Shah"> </Destructuring>*/}
+      <Destructuring name = "Dhruv" lastName = "Shah"> </Destructuring>
       <FunctionClick />
-      <ClassClick></ClassClick>
+      <ClassClick></ClassClick>*/}
+      <EventBind> </EventBind>
+      <ParentComponent> </ParentComponent>
   </div>
   );
 }
