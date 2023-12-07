@@ -10,6 +10,8 @@ import FunctionClick from './Components/FunctionClick';
 import ClassClick from './Components/ClassClick';
 import EventBind from './Components/EventBind';
 import ParentComponent from './Components/ParentComponent';
+import UserGreeting from './Components/UserGreeting';
+import NameList from './Components/NameList';
 
 function App() { 
   return (
@@ -26,9 +28,11 @@ function App() {
       <Counter> </Counter>
       <Destructuring name = "Dhruv" lastName = "Shah"> </Destructuring>
       <FunctionClick />
-      <ClassClick></ClassClick>*/}
+      <ClassClick></ClassClick>
       <EventBind> </EventBind>
-      <ParentComponent> </ParentComponent>
+      <ParentComponent> </ParentComponent>*/}
+      <UserGreeting> </UserGreeting>
+      <NameList></NameList>
   </div>
   );
 }

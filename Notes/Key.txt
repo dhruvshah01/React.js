@@ -1,0 +1,4 @@
+A "key" is a special string attribute you need to include when creating a list.
+Keys give the elements a stability.
+Keys help in identifying which elements are changed, added or removed.
+Help in efficient update of the UI
