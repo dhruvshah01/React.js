@@ -1,0 +1,4 @@
+Index as a key
+1) Items in list do not have a unique id.
+2) List is static and will not change.
+3) List will never be reordered or filtered.
